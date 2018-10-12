@@ -12,6 +12,7 @@ package lab7;
 //Hi my name is Ahssan Khan
 public class Lab7 {
 
+
     /**
      * @param args the command line arguments
      */
@@ -19,4 +20,5 @@ public class Lab7 {
         System.out.println("Hello World!");
     }
     
+
 }
