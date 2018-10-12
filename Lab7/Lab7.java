@@ -3,11 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package lab7;
 
 /**
  *
- * @author BAEtesting
+ * @author Ahssan
  */
+//Hi my name is Ahssan Khan
 public class Lab7 {
-    // Master Branch
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+    
 }
